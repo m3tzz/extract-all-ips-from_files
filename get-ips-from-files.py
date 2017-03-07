@@ -8,7 +8,7 @@ try:
     # create an empty list
     ips = []
     #Define path
-    path = "/Users/rubenbarbosa/Desktop/Tier1_fw_new_configs/*"
+    path = "/*"
     files = glob.glob(path)
 
     # read through the file
